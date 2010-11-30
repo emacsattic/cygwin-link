@@ -4,6 +4,7 @@
 
 ;; Author: Edward O'Connor <ted@oconnor.cx>
 ;; Keywords: convenience, files
+;; Version: 1.0.0
 
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -26,7 +27,7 @@
 
 ;; You should always be able to find the latest version here:
 
-;;         <URL:http://oconnor.cx/elisp/cygwin-link.el>
+;;         <URL:http://edward.oconnor.cx/elisp/cygwin-link.el>
 
 ;;; Code:
 
